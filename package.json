@@ -1,6 +1,7 @@
 {
   "name": "searchkit",
   "private": true,
+  "private123": true,
   "workspaces": [
     "packages/*"
   ],
