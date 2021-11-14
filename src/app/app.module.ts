@@ -16,6 +16,7 @@ import { LoginComponent } from './components/user/login/login.component';
 import { UserModule } from './components/user/user.module';
 import { PartialModule } from './components/partial/partial.module';
 import { LoginModule } from './components/login/login.module';
+import { TokenInterceptorService } from './interceptor/token-interceptor.service';
 @NgModule({
   declarations: [
     AppComponent,
